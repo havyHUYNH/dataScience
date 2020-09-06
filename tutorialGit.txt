@@ -1,0 +1,17 @@
+If this is the frist time entry Git with new account, should follow these steps: 
+1. git config --global user.name "<FIRST_NAME LAST_NAME>"
+2. git config --global user.email "<MY_NAME@example.com>"
+3. git init
+
+The steps are used push/pull changed files
+1. touch <name_file> (Create new file)
+2. git clone <link> (pull a repository)
+3. git add * (add file in local)
+4. git commit -m <comment for the change> 
+5. git push (push on server)
+6. git log 
+7. git status 
+
+
+NOTE: if you have a old account on your PC and you want to delete it. 
+You go to <Control Panel\User Accounts\Credential Manager\ Windows Credential> and then you can delete old account. 
